@@ -3,11 +3,11 @@
   "name": "hono-with-cloudflare-kv",
   "main": "src/index.ts",
   "compatibility_date": "2025-10-27",
-  "kv_namespaces": [
+	"kv_namespaces": [
 		{
-			"binding": "todo_kv",
-			"id": "54cd938844f04c8fb1827a71f67eb2ad",
-			"remote": true
+			"binding": "MY_KV_NAMESPACE",
+			"id": "xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx",
+			"remote": true // Enable remote namespace for development environment
 		}
 	],
   // "compatibility_flags": [
