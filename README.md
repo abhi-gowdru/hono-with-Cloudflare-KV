@@ -20,7 +20,7 @@ This project shows how to build, develop, and deploy a Hono Worker integrated wi
 ### 1. Clone the repository
 
 ```bash
-git clone https://github.com/<your-username>/hono-with-cloudflare-kv.git
+git clone https://github.com/abhi-gowdru/hono-with-cloudflare-kv.git
 cd hono-with-cloudflare-kv
 ```
 
@@ -151,8 +151,4 @@ For significant changes, open an issue first to discuss improvements.
 
 ## License
 
-This project is licensed under the **MIT License** — see the [LICENSE](LICENSE) file for details.
-
----
-
-Would you like me to add a **sample `package.json`** section (with the `dev`, `deploy`, and `cf-typegen` scripts) so the README matches the exact commands you’re using?
+This project is licensed under the **Apache-2.0 license** — see the [LICENSE](LICENSE) file for details.
